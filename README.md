@@ -30,3 +30,13 @@ A beautifully designed and fully responsive weather dashboard that provides real
 - Get your API key
 - Open script.js and replace the placeholder:
 - const api_key = "YOUR_API_KEY_HERE";
+
+# Output Screens
+
+![Screenshot 2025-04-11 215510](https://github.com/user-attachments/assets/2f124ffa-503e-4164-9573-176e47d9c195)
+![Screenshot 2025-04-11 215534](https://github.com/user-attachments/assets/5c42518c-ffa6-41d9-9fcc-b87a0f887820)
+![Screenshot 2025-04-11 215545](https://github.com/user-attachments/assets/7e87a5ac-c9bf-4363-894c-8aac8dcadb22)
+![Screenshot 2025-04-11 215613](https://github.com/user-attachments/assets/81548d38-b1fa-4c6e-928f-3c07834dcdc9)
+
+
+
